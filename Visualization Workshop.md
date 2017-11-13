@@ -2,7 +2,7 @@
 
 ## Links
 
-[https://juxtapose.knightlab.com/#make](https://juxtapose.knightlab.com/#make "Juxtapose - Image Comparison Tool")
+[Juxtapose - Image Comparison Tool](https://juxtapose.knightlab.com/#make "Juxtapose - Image Comparison Tool")
 
 [http://timeline.knightlab.com](http://timeline.knightlab.com "Timeline - Create Media-Rich Timelines")
 
