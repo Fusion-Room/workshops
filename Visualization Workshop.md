@@ -4,12 +4,12 @@
 
 [Juxtapose - Image Comparison Tool](https://juxtapose.knightlab.com/#make "Juxtapose - Image Comparison Tool")
 
-[http://timeline.knightlab.com](http://timeline.knightlab.com "Timeline - Create Media-Rich Timelines")
+[Timeline - Create Media-Rich Timelines](http://timeline.knightlab.com "Timeline - Create Media-Rich Timelines")
 
-[http://storyline.knightlab.com/#make-step-1](http://storyline.knightlab.com/#make-step-1 "Storyline - Tell stories with data")
+[Storyline - Tell stories with data](http://storyline.knightlab.com/#make-step-1 "Storyline - Tell stories with data")
 
-[https://scene.knightlab.com/#overview](https://scene.knightlab.com/#overview "Scene- Transform your Panoramic Photos Into VR scenes")
+[Scene- Transform your Panoramic Photos Into VR scenes](https://scene.knightlab.com/#overview "Scene- Transform your Panoramic Photos Into VR scenes")
 
-[https://storymap.knightlab.com](https://storymap.knightlab.com "Storymap- Tell Stories With Maps")
+[Storymap- Tell Stories With Maps](https://storymap.knightlab.com "Storymap- Tell Stories With Maps")
 
-[http://voyant-tools.org](http://voyant-tools.org "Voyant- Tell Stories with Text")
+[Voyant- Tell Stories with Text](http://voyant-tools.org "Voyant- Tell Stories with Text")
